@@ -1,4 +1,4 @@
-# prometheus
+# **Prometheus**
 # Follow below commands for creating prometheus pod and scrap the data from cluster
 - Create a Namespace monitoring kubectl create namespace monitoring
 
